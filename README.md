@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:14.03.2025
+## Register Number:212224220013
+## Name:ASWIKA.B
 ## Problem Title
 SIH 1653: Web based Selector-Applicant Simulation Software
 ## Problem Description
@@ -11,16 +11,43 @@ Background: Recruitment and Assessment Centre (RAC) under DRDO, Ministry of Defe
 Ministry of Defence
 
 ## Idea
+For Selectors (Recruiters, HR, Hiring Managers):
 
+AI-based applicant evaluation
+
+Customizable interview simulations
+
+Automated scoring & feedback
+
+Data analytics on applicant performance
+
+Multi-user collaboration tools
 
 ## Proposed Solution / Architecture Diagram
-
+![web](https://github.com/user-attachments/assets/d1b15b1d-7224-460a-85c5-f0d3a9e0c3bb)
 
 ## Use Cases
+![web1](https://github.com/user-attachments/assets/175bc54c-2379-46f8-83f8-e4972d3bdbb6)
 
 
 ## Technology Stack
+React.js
+
+Node.js
+
+PostgreSQL
+
+Google maps
+
+Firebox Authenticator
+
+Git , Postman or Insomnia
 
 
 ## Dependencies
+Mapping service- 10 days
+
+Data collection- 10 days
+
+budget- rs.50,000
 
